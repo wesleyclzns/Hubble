@@ -1,4 +1,4 @@
-# Nomeador-de-Projetos
+# Hubble - Nomeador de projetos
 Um script em Python bem simples para me ajudar a dar nome estelares para os meus futuros projetos.
 #
 
